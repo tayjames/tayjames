@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hola hola 👋
+
+My name is 🗣️, and I am from Pueblo, Colorado 🌶️🌾 I've been developing in Ruby/Rails since 2019, and along the way I've learned more about those ecosystems and some cool complimentary libraries and paradigms to go with! Before coding I got my degree in math from CU Boulder 🐃 In my spare time, I like to create things to wear -- sometimes practical, and sometimes not 🧷
+
+- 🔭 I’m currently working on improving my knowledge of Hotwire
+- 💬 Ask me about how to use Pry efficiently!
+- 📫 How to reach me: tay.james.d@gmail.com
+- ⚡ Fun fact: I have the same birthday as Janet Jackson, and I believe that means I am destined for great things (◕‿◕✿)
 
 <!--
 **tayjames/tayjames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
