@@ -1,6 +1,6 @@
 ## Hola hola 👋
 
-My name is 🗣️, and I am from Pueblo, Colorado 🌶️🌾 I've been developing in Ruby/Rails since 2019, and along the way I've learned more about those ecosystems and some cool complimentary libraries and paradigms to go with! Before coding I got my degree in math from CU Boulder 🐃⛰️ In my spare time, I like to create things to wear -- sometimes practical, and sometimes not 🧷
+My name is Tay DeHerrera-Jimenez, and I am from Pueblo, Colorado 🌶️🌾 I've been developing in Ruby/Rails since 2019, and along the way I've learned more about those ecosystems and some cool complimentary libraries and paradigms to go with! Before coding I got my degree in math from CU Boulder 🐃⛰️ In my spare time, I like to create things to wear -- sometimes practical, and sometimes not 🧷
 
 - 🔭 I’m currently working on improving my knowledge of Hotwire
 - 💬 Ask me about how to use Pry efficiently!
